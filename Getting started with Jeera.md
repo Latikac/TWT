@@ -38,17 +38,21 @@ You can install Jira software using any browser. You need personal/work email ID
 **Create a Project**
 
 After you log into your account, on the top pane **Projects** appears. You can use the drop-down button and select **Create project** to create a new project. Your recent project appears on the top. Select **View all projects** to see all your projects.
+
 ![image](img/../Images/Picture1.png)
 
 
 **Choose Project templates**
 
 You can start with a blank project or choose a premade template for your project. Choose the one that suits best your team and business requirements.
+
 ![image](img/../Images/Picture2.png)
 
 
 **Invite People**
+
 Now it’s time to bring your team on board.  On the top pane select **People** to **Invite people** to Jira or **Create a team**. You need to add your team member first to assign an Issue.
+
 ![image](img/../Images/Picture3.png)
 
 **Create an Issue**
