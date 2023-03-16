@@ -73,4 +73,4 @@ Check out the User guide to learn more about all these features.
 
 
 
-![Add tools](img/../Images/Picture1.png)
+
