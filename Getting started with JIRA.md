@@ -67,6 +67,8 @@ Select **Create** on the top pane to go to create issue page. You can create an 
 
 Jira allows your team to work on different tools in the same environment. On the top pane select **Apps** to search and integrate apps that you wish to work on.
 
+![create issue](img/../Images/tools.png)
+
 Check out the User guide to learn more about all these features.
 
 
