@@ -71,7 +71,7 @@ Jira allows your team to work on different tools in the same environment. On the
 
 ![create issue](img/../Images/tools.png)
 
-Check out the User guide to learn more about all these Features.
+Check out the User guide to learn more about all these features.
 
 
 
