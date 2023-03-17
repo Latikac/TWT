@@ -28,7 +28,7 @@ To install,
     **Note**: The **Get started screen** displays.
 
 3. On the **Get started screen** perform the following steps:
-   - Either enter **your work email** or select **Continue with Google**.
+   - Either enter **Your work email** or select **Continue with Google**.
     **Note**: if you select Continue with Google, choose your preferred Google account.
     -  Select **Agree** to go to **Create your account** page.
     -  Select **Create your account**.
