@@ -60,6 +60,7 @@ Now it’s time to bring your team on board.  On the top pane select **People** 
 
 Select **Create** on the top pane to go to create issue page. You can create an **Epic**, **Story**, **Bug**, **Task**, or **Subtask** for your project. You can assign the issues to your team members and set other priorities as well.
 
+
 ![create issue](img/../Images/Picture5.png)
 
  
